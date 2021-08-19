@@ -1,6 +1,6 @@
 <html>
   hello world
   <?php
-    echo "<script> alert("hi") </script> ";
+    echo "<script> alert('hi') </script> ";
   ?>
 </html>
